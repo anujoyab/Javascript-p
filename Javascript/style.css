@@ -1,0 +1,26 @@
+*{
+    background-image: linear-gradient(to righ, #b95f5f, #b5d347);
+}
+
+
+body{
+    text-align: center;
+}
+button{
+    background: red;
+    padding: 20px 40px;
+    color: white;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 0;
+    margin: 20px 45px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+button:hover{
+    background: #262626;
+}
+#ludo{
+    height: 20rem;
+    width: 20rem;
+}
